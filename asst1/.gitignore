@@ -1,0 +1,3 @@
+prog1_mandelbrot_threads/objs
+.vscode
+*.o
